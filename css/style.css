@@ -678,5 +678,13 @@ button{
 	.computer > .screen{
 		height: 190px;
 	}
+
+  .phone{
+    height: 200px;
+  }
+
+  .phone > .screen{
+    height: 200px;
+  }
 }
 
