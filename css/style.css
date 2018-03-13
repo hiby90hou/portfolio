@@ -627,7 +627,7 @@ button{
 
 
 
-@media only screen and (max-width: 1023px) and (orientation: landscape){
+@media only screen and (max-width: 668px) and (max-width: 1023px) and (orientation: landscape){
 	h1{
 		font-size: 4em;
 	}
