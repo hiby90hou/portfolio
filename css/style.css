@@ -670,12 +670,17 @@ button{
     display: none;
   }
 
+  ul{
+    margin: 0;
+  }
+
   .project-container{
     flex-direction: row;
   }
 
   .phone{
-    transform: scale(0.8);
+    transform: scale(0.6);
+    margin: -3em 0;
   }
 
   .computer{
